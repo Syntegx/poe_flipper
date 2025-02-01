@@ -38,3 +38,5 @@ Adds 13 to 23 Fire Damage
 Adds 1 to 47 Lightning Damage
 
 read output and flip items for fat DIVS
+
+lol
